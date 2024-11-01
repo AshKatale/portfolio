@@ -1,7 +1,4 @@
 import React from 'react'
-import { ShineBorderDemo } from '../sub/Card'
-import { ParticlesDemo } from './Particles'
-import { MeteorDemo } from '../sub/Meteor'
 import { DotPatternLinearGradient } from './DotPatternDemo'
 
 
