@@ -63,9 +63,9 @@ export default function HeroContent() {
         <motion.a
           variants={slideInFromLeft(1)}
           className="py-2 button-primary text-center text-white cursor-pointer rounded-lg max-w-[200px]"
-          href=''
+          href='Ashitosh Katale.pdf'
         >
-          Download Resume
+          Resume
         </motion.a>
       </div>
       <motion.div
