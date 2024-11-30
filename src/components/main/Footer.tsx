@@ -11,7 +11,7 @@ export default function Footer() {
       
 
       <TerminalCard title={"LinkedIn"} logo={"./linkedinlogo.svg"}  link={"http://www.linkedin.com/in/ashitoshkatale"} />
-      <TerminalCard title={"Github"} logo={"gitwhite.png"}  link={"http://www.github.com/ashitoshkatale"} />
+      <TerminalCard title={"Github"} logo={"gitwhite.png"}  link={"https://github.com/AshKatale"} />
       <TerminalCard title={"Gmail"} logo={"/gmail.svg"} link={"kataleashitosh123@gmail.com"} />
       <TerminalCard title={"Phone"} logo={"/phone.svg"} link={"+91 9322818122"} />
 
