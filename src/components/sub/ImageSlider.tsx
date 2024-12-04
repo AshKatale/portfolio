@@ -7,6 +7,7 @@ export function ImagesSliderDemo() {
   const images = [
     "/certificate1.png",
     "/Hack2skill-Certificate.png",
+    "/javaCertificate.jpg"
   ];
   return (
     <div className="flex flex-col items-center mb-10" id="certifications">
